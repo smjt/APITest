@@ -15,8 +15,8 @@ go run main.go
 
 You can test the following apis with CURL or postman
 
-GET user-api/user → Retrieves all the user data
-POST user-api/user → Add new user data
-GET user-api/user/{id} → Retrieve the single user data
-PUT user-api/user/{id} → Update the user data
-DELETE user-api/user → Delete the user data
+- GET user-api/user → Retrieves all the user data
+- POST user-api/user → Add new user data
+- GET user-api/user/{id} → Retrieve the single user data
+- PUT user-api/user/{id} → Update the user data
+- DELETE user-api/user → Delete the user data
