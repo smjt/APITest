@@ -1,5 +1,5 @@
 # APITest
-RestAPI with go gin 
+This is a standard RestAPI implementation with go and gin framework
 
 install go, mysql
 make sure you vendor all the libraries with 
